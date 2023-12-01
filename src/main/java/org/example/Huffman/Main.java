@@ -1,8 +1,10 @@
-package org.example;
+package org.example.Huffman;
+
+import org.example.Huffman.HuffmanNode;
 
 import java.util.HashMap;
 
-import static org.example.HuffmanCoding.*;
+import static org.example.Huffman.HuffmanCoding.*;
 
 public class Main {
     public static void main(String[] args) {

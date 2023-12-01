@@ -1,4 +1,4 @@
-package org.example;
+package org.example.Huffman;
 
 class HuffmanNode implements Comparable<HuffmanNode> {
     char data;

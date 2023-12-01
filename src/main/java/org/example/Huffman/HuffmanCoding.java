@@ -1,4 +1,5 @@
-package org.example;
+package org.example.Huffman;
+
 
 import java.util.PriorityQueue;
 import java.util.HashMap;
